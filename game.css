@@ -23,3 +23,6 @@
     transform: translateY(-0.1rem);
     transition: transform 150ms; 
 }
+.clr{
+    font-family: 'Courier New', Courier, monospace;
+}
